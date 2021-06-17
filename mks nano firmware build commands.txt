@@ -1,0 +1,4 @@
+cd ~/klipper
+~/klipper$ make clean
+~/klipper$ make
+sudo ~/klipper/scripts/update_mks_robin.py ~/klipper/out/klipper.bin ~/klipper/out/Robin_nano35.bin
